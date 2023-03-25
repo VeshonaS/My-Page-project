@@ -1,0 +1,39 @@
+img{
+    width:350px;
+    }
+#change{
+    width:300px;
+}
+
+
+#align{
+   width: 270px;
+    }
+      body{
+  text-align:center;  
+  background-color:#f5f5f5;
+    }
+h2{
+   font-family: 'Concert One', cursive;
+   background-color:#ebd1ff;
+    }
+    
+h1{
+   font-family: 'Fredoka One', cursive;
+   background-color:#df75ff;
+    }
+p{
+   font-family: 'Comfortaa', cursive; 
+  
+    }
+.bord{
+   border-style:groove; 
+   border-width:9pt;
+   border-color:#7915d1;
+    
+    }   
+    
+#artist{
+width:200px;
+ height:180px;
+}
